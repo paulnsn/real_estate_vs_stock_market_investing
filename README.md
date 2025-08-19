@@ -33,3 +33,5 @@ The following data were used in developing the findings detailed below:<br>
 
 1) Historical assessed property values for single-family residences in SF (Source: Data SF): https://data.sfgov.org/Housing-and-Buildings/Assessor-Historical-Secured-Property-Tax-Rolls/wv5m-vpq2/about_data<br>
 2) Historical S&P 500 returns by year (Source: Google Finance)
+
+   <img width="1014" height="548" alt="image" src="https://github.com/user-attachments/assets/49bdf062-aca8-4265-9bd0-db4e75e695e4" />
