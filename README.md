@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 
 In the first half of 2024, which saw the significant increase in mortgage interest rates in the U.S; this made me curious whether it made more sense financially to:
 
@@ -7,7 +7,7 @@ In the first half of 2024, which saw the significant increase in mortgage intere
 
 To evaluate both options, I was interested in using publicly available data to identify what the average increase in property price was for single-family residences over a period of time, its associated annualized rate of return, and how that compares to the annualized rate of return for the U.S. stock market. I will be using the S&P 500 index as a comparison. 
 
-##Data Sources
+## Data Sources
 
 Before diving into this project, I sought after the following datasets:<br>
 
